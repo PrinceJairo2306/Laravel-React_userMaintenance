@@ -1,6 +1,6 @@
 Good Day, Here are the instruction to run my output. Please Inform me if its Unclear. 
 
-Since the required Laravel 8, I installed a Xampp version that would be able to run Laravel 8.
+Since the required version is Laravel 8, I installed a Xampp version that would be able to run Laravel 8.
 I included the Xammp installer I used in the Zip File for reference.
 
 
