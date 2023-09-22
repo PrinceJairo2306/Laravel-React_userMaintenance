@@ -1,5 +1,5 @@
-import Home from "./home.jsx";
-import CreateUser from "./UserCreate";
+import Home from "./components/pages/user/UserList";
+import CreateUser from "./components/pages/user/UserCreate";
 
 const routes = [
     { path: "/", component: Home },
