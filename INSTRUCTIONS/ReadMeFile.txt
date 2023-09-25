@@ -27,7 +27,7 @@ Step 2: run the following command as follows
 Typing the URL localhost:3000 
 Should show my output.
 
-If something is unclear Please refer to the Screenshoots I sent via Zip. credentials are included(.env)
+If something is unclear Please proceed to the Instruction File which I included inside the github repo. credentials are included(.env)
 I also sent the Screenshot of my output for initial checking.
 Thank you and Hoping for you kind response. 
 Have a Good Day!
